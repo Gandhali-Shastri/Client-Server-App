@@ -1,8 +1,4 @@
-/*	* Name:- Gandhali Girish Shastri
- * ID: 1001548562
- * Lab Assignment - 1
- * -----------------------------------------------------
- * 
+/*	
  * References:	https://www.jmarshall.com/easy/http/#http1.1c1
  * 				https://www.geeksforgeeks.org/split-string-java-examples/
  * 				https://mark.koli.ch/remember-kids-an-http-content-length-is-the-number-of-bytes-not-the-number-of-characters
